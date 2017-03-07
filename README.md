@@ -32,8 +32,8 @@ il est fortement conseillé d'utiliser celles que vous connaissez :
   * Scrum master
   * Conception
   * Web design & UX
-  * mise en place du stack technique de dev (create-react-app + npm install ...)
-  * mise en place du server de prod (Heroku ou autre)
+  * mise en place du stack technique de dev (create-react-app + npm install ...)
+  * mise en place du server de prod (Heroku ou autre)
   * Identifier et les routes d'api
   * écrire le contrat de donnée entre le back et front pour chaque route d'API
   
